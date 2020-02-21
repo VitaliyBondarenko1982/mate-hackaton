@@ -1,15 +1,9 @@
-.page {
-  display: grid;
-  grid-template: auto / 1fr 400px;
-  column-gap: 20px;
-  min-height: 100vh;
+.app {
+  margin-top: 100px;
+  text-align: center;
+  font-size: 40px;
 }
 
-.page-content {
-  padding: 20px;
-}
-
-.sidebar {
-  padding: 20px;
-  border-left: 1px solid lightgray;
+.btn {
+  width: 100px;
 }
